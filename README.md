@@ -73,11 +73,11 @@ Go to `http://localhost:3000` and you're good to go!
 
 | Name             | Enrollment No.|
 |------------------|---------------|
-Dhruv Sharma      - A023166922027 
-Aaditya Prakash   - A2305222779 
-Aakash Khandelwal - A2305222292 
-Mayank            - A2345922060 
-Naman Singhal     - A2305222237 
+Dhruv Sharma       | A023166922027 |
+Aaditya Prakash    | A2305222779   |
+Aakash Khandelwal  | A2305222292   |
+Mayank             | A2345922060   |
+Naman Singhal      | A2305222237   |
 
 **Course:** B.Tech CSE | **College:** Amity University, Noida
 
